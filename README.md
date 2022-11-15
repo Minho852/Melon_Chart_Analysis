@@ -33,9 +33,9 @@
 
 ## :computer: Repository 안내
 
-데이터 수집(2) 과정을 보고 싶으신 분은 Web Scraping file로 들어가 주세요. <br>
-데이터 저장(3) 과정을 보고 싶으신 분은 MySQL Table Design file로 들어가 주세요. <br>
-데이터 분석(4) 과정을 보고 싶으신 분은 Data Analysis file로 들어가 주세요. <br>
+:speech_balloon: 데이터 수집(2) 과정을 보고 싶으신 분은 Web Scraping file로 들어가 주세요. <br>
+:speech_balloon: 데이터 저장(3) 과정을 보고 싶으신 분은 MySQL Table Design file로 들어가 주세요. <br>
+:speech_balloon: 데이터 분석(4) 과정을 보고 싶으신 분은 Data Analysis file로 들어가 주세요. <br>
 
-총 정리된 파일을 보고 싶으신 분은 Presentation Material file로 들어가 주세요. <br>
+:speech_balloon: 총 정리된 파일을 보고 싶으신 분은 Presentation Material file로 들어가 주세요. <br>
 (확장자 .pptx에 맞춰서 작성된 파일이라 .pdf로 보시는 분들께는 부자연스러운 페이지가 보일 것입니다.)
