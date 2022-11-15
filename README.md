@@ -5,7 +5,7 @@
 > :family: team1
 - [김민호](깃허브 프로필 주소 올려주세요!)
 - [지우근](https://github.com/UGeunJi)
-- [주한솔](깃허브 프로필 주소 올려주세요!)
+- [주한솔](https://github.com/zzoall)
 - [전현준](https://github.com/Hjun96)
 
 ---
